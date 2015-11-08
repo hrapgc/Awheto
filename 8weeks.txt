@@ -1,0 +1,1717 @@
+Awheto	Media	Agar	Luminosity	Growth
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	Plain agar	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Leaves	PDA	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	2
+A4	Litter	Plain agar	light	2
+A4	Litter	Plain agar	light	3
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	Plain agar	light	0
+A4	Litter	PDA	light	13.5
+A4	Litter	PDA	light	13
+A4	Litter	PDA	light	16
+A4	Litter	PDA	light	17.5
+A4	Litter	PDA	light	14.5
+A4	Litter	PDA	light	14
+A4	Litter	PDA	light	12.5
+A4	Litter	PDA	light	13.5
+A4	Litter	PDA	light	15
+A4	Litter	PDA	light	15.5
+A4	Litter	PDA	light	16
+A4	Litter	PDA	light	14.5
+A4	Litter	PDA	light	15.5
+A4	Litter	PDA	light	13.5
+A4	Litter	PDA	light	13
+A4	Litter	PDA	light	13.5
+A4	Litter	PDA	light	16
+A4	Litter	PDA	light	14
+A4	Litter	PDA	light	15
+A4	Litter	PDA	light	13.5
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	Plain agar	light	0
+A4	H2O	PDA	light	17.5
+A4	H2O	PDA	light	17.5
+A4	H2O	PDA	light	17
+A4	H2O	PDA	light	19
+A4	H2O	PDA	light	15.5
+A4	H2O	PDA	light	21.5
+A4	H2O	PDA	light	20
+A4	H2O	PDA	light	17.5
+A4	H2O	PDA	light	17.5
+A4	H2O	PDA	light	17
+A4	H2O	PDA	light	16.5
+A4	H2O	PDA	light	16
+A4	H2O	PDA	light	17.5
+A4	H2O	PDA	light	16.5
+A4	H2O	PDA	light	17.5
+A4	H2O	PDA	light	18
+A4	H2O	PDA	light	18.5
+A4	H2O	PDA	light	16
+A4	H2O	PDA	light	17
+A4	H2O	PDA	light	18
+A4	Soil + Litter	Plain agar	light	10
+A4	Soil + Litter	Plain agar	light	6.5
+A4	Soil + Litter	Plain agar	light	6.5
+A4	Soil + Litter	Plain agar	light	9
+A4	Soil + Litter	Plain agar	light	5.5
+A4	Soil + Litter	Plain agar	light	6.5
+A4	Soil + Litter	Plain agar	light	7
+A4	Soil + Litter	Plain agar	light	5
+A4	Soil + Litter	Plain agar	light	6.5
+A4	Soil + Litter	Plain agar	light	10.5
+A4	Soil + Litter	Plain agar	light	9
+A4	Soil + Litter	Plain agar	light	11
+A4	Soil + Litter	Plain agar	light	7.5
+A4	Soil + Litter	Plain agar	light	6.5
+A4	Soil + Litter	Plain agar	light	7.5
+A4	Soil + Litter	Plain agar	light	10.5
+A4	Soil + Litter	Plain agar	light	7
+A4	Soil + Litter	Plain agar	light	8
+A4	Soil + Litter	Plain agar	light	6
+A4	Soil + Litter	Plain agar	light	4.5
+A4	Soil + Litter	PDA	light	13.5
+A4	Soil + Litter	PDA	light	16.5
+A4	Soil + Litter	PDA	light	14.5
+A4	Soil + Litter	PDA	light	14
+A4	Soil + Litter	PDA	light	14.5
+A4	Soil + Litter	PDA	light	14.5
+A4	Soil + Litter	PDA	light	15
+A4	Soil + Litter	PDA	light	15
+A4	Soil + Litter	PDA	light	14
+A4	Soil + Litter	PDA	light	17
+A4	Soil + Litter	PDA	light	16
+A4	Soil + Litter	PDA	light	15.5
+A4	Soil + Litter	PDA	light	15.5
+A4	Soil + Litter	PDA	light	16
+A4	Soil + Litter	PDA	light	15
+A4	Soil + Litter	PDA	light	15.5
+A4	Soil + Litter	PDA	light	16
+A4	Soil + Litter	PDA	light	15
+A4	Soil + Litter	PDA	light	14
+A4	Soil + Litter	PDA	light	13
+A4	Seeds	Plain agar	light	9.5
+A4	Seeds	Plain agar	light	8
+A4	Seeds	Plain agar	light	9
+A4	Seeds	Plain agar	light	9
+A4	Seeds	Plain agar	light	8
+A4	Seeds	Plain agar	light	8
+A4	Seeds	Plain agar	light	9
+A4	Seeds	Plain agar	light	8.5
+A4	Seeds	Plain agar	light	11.5
+A4	Seeds	Plain agar	light	11
+A4	Seeds	Plain agar	light	10
+A4	Seeds	Plain agar	light	9.5
+A4	Seeds	Plain agar	light	6
+A4	Seeds	Plain agar	light	9
+A4	Seeds	Plain agar	light	8
+A4	Seeds	Plain agar	light	8.5
+A4	Seeds	Plain agar	light	7.5
+A4	Seeds	Plain agar	light	8
+A4	Seeds	Plain agar	light	8.5
+A4	Seeds	Plain agar	light	9
+A4	Seeds	PDA	light	15
+A4	Seeds	PDA	light	15.5
+A4	Seeds	PDA	light	15.5
+A4	Seeds	PDA	light	19
+A4	Seeds	PDA	light	15
+A4	Seeds	PDA	light	14.5
+A4	Seeds	PDA	light	16
+A4	Seeds	PDA	light	15
+A4	Seeds	PDA	light	16
+A4	Seeds	PDA	light	15.5
+A4	Seeds	PDA	light	15.5
+A4	Seeds	PDA	light	16.5
+A4	Seeds	PDA	light	15.5
+A4	Seeds	PDA	light	15.5
+A4	Seeds	PDA	light	15
+A4	Seeds	PDA	light	14.5
+A4	Seeds	PDA	light	16
+A4	Seeds	PDA	light	15.5
+A4	Seeds	PDA	light	15
+A4	Seeds	PDA	light	18
+A4	Berries	Plain agar	light	6
+A4	Berries	Plain agar	light	6.5
+A4	Berries	Plain agar	light	5.5
+A4	Berries	Plain agar	light	6
+A4	Berries	Plain agar	light	6
+A4	Berries	Plain agar	light	7
+A4	Berries	Plain agar	light	5
+A4	Berries	Plain agar	light	2.5
+A4	Berries	Plain agar	light	7
+A4	Berries	Plain agar	light	6.5
+A4	Berries	Plain agar	light	8
+A4	Berries	Plain agar	light	7
+A4	Berries	Plain agar	light	7.5
+A4	Berries	Plain agar	light	9
+A4	Berries	Plain agar	light	9.5
+A4	Berries	Plain agar	light	8
+A4	Berries	Plain agar	light	7
+A4	Berries	Plain agar	light	8
+A4	Berries	Plain agar	light	7.5
+A4	Berries	Plain agar	light	10.5
+A4	Berries	PDA	light	16.5
+A4	Berries	PDA	light	16
+A4	Berries	PDA	light	17
+A4	Berries	PDA	light	14.5
+A4	Berries	PDA	light	14.5
+A4	Berries	PDA	light	15
+A4	Berries	PDA	light	18
+A4	Berries	PDA	light	17.5
+A4	Berries	PDA	light	15.5
+A4	Berries	PDA	light	14
+A4	Berries	PDA	light	13.5
+A4	Berries	PDA	light	15
+A4	Berries	PDA	light	15.5
+A4	Berries	PDA	light	14.5
+A4	Berries	PDA	light	18
+A4	Berries	PDA	light	17
+A4	Berries	PDA	light	18.5
+A4	Berries	PDA	light	16
+A4	Berries	PDA	light	16
+A4	Berries	PDA	light	15.5
+A4	Sees + Berries	Plain agar	light	6
+A4	Sees + Berries	Plain agar	light	6
+A4	Sees + Berries	Plain agar	light	5
+A4	Sees + Berries	Plain agar	light	6
+A4	Sees + Berries	Plain agar	light	6
+A4	Sees + Berries	Plain agar	light	5
+A4	Sees + Berries	Plain agar	light	6.5
+A4	Sees + Berries	Plain agar	light	7.5
+A4	Sees + Berries	Plain agar	light	5.5
+A4	Sees + Berries	Plain agar	light	5.5
+A4	Sees + Berries	Plain agar	light	7
+A4	Sees + Berries	Plain agar	light	8
+A4	Sees + Berries	Plain agar	light	6
+A4	Sees + Berries	Plain agar	light	7.5
+A4	Sees + Berries	Plain agar	light	7.5
+A4	Sees + Berries	Plain agar	light	5
+A4	Sees + Berries	Plain agar	light	6.5
+A4	Sees + Berries	Plain agar	light	6.5
+A4	Sees + Berries	Plain agar	light	6.5
+A4	Sees + Berries	Plain agar	light	7.5
+A4	Sees + Berries	PDA	light	16.5
+A4	Sees + Berries	PDA	light	14.5
+A4	Sees + Berries	PDA	light	14
+A4	Sees + Berries	PDA	light	14.5
+A4	Sees + Berries	PDA	light	16.5
+A4	Sees + Berries	PDA	light	14.5
+A4	Sees + Berries	PDA	light	14.5
+A4	Sees + Berries	PDA	light	15
+A4	Sees + Berries	PDA	light	16
+A4	Sees + Berries	PDA	light	17
+A4	Sees + Berries	PDA	light	15.5
+A4	Sees + Berries	PDA	light	14
+A4	Sees + Berries	PDA	light	19
+A4	Sees + Berries	PDA	light	17.5
+A4	Sees + Berries	PDA	light	17
+A4	Sees + Berries	PDA	light	18
+A4	Sees + Berries	PDA	light	15
+A4	Sees + Berries	PDA	light	14.5
+A4	Sees + Berries	PDA	light	15
+A4	Sees + Berries	PDA	light	15
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	Plain agar	light	0
+A4	Roots	PDA	light	17
+A4	Roots	PDA	light	15
+A4	Roots	PDA	light	15.5
+A4	Roots	PDA	light	15
+A4	Roots	PDA	light	16.5
+A4	Roots	PDA	light	18
+A4	Roots	PDA	light	17.5
+A4	Roots	PDA	light	16.5
+A4	Roots	PDA	light	18.5
+A4	Roots	PDA	light	18
+A4	Roots	PDA	light	19
+A4	Roots	PDA	light	15
+A4	Roots	PDA	light	15
+A4	Roots	PDA	light	13.5
+A4	Roots	PDA	light	16
+A4	Roots	PDA	light	16
+A4	Roots	PDA	light	15.5
+A4	Roots	PDA	light	16.5
+A4	Roots	PDA	light	16.5
+A4	Roots	PDA	light	15
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	Plain agar	light	0
+A4	Soil	PDA	light	15
+A4	Soil	PDA	light	15
+A4	Soil	PDA	light	15.5
+A4	Soil	PDA	light	15
+A4	Soil	PDA	light	16.5
+A4	Soil	PDA	light	15
+A4	Soil	PDA	light	14
+A4	Soil	PDA	light	15
+A4	Soil	PDA	light	14
+A4	Soil	PDA	light	15
+A4	Soil	PDA	light	15
+A4	Soil	PDA	light	15.5
+A4	Soil	PDA	light	14.5
+A4	Soil	PDA	light	16
+A4	Soil	PDA	light	17.5
+A4	Soil	PDA	light	15.5
+A4	Soil	PDA	light	18.5
+A4	Soil	PDA	light	17
+A4	Soil	PDA	light	14
+A4	Soil	PDA	light	13
+A4	Roots + Soil 	Plain agar	light	9
+A4	Roots + Soil 	Plain agar	light	8
+A4	Roots + Soil 	Plain agar	light	7
+A4	Roots + Soil 	Plain agar	light	8
+A4	Roots + Soil 	Plain agar	light	6.5
+A4	Roots + Soil 	Plain agar	light	7.5
+A4	Roots + Soil 	Plain agar	light	9
+A4	Roots + Soil 	Plain agar	light	10.5
+A4	Roots + Soil 	Plain agar	light	6.5
+A4	Roots + Soil 	Plain agar	light	9
+A4	Roots + Soil 	Plain agar	light	8
+A4	Roots + Soil 	Plain agar	light	8.5
+A4	Roots + Soil 	Plain agar	light	10
+A4	Roots + Soil 	Plain agar	light	9.5
+A4	Roots + Soil 	Plain agar	light	9
+A4	Roots + Soil 	Plain agar	light	6.5
+A4	Roots + Soil 	Plain agar	light	7
+A4	Roots + Soil 	Plain agar	light	8.5
+A4	Roots + Soil 	Plain agar	light	7.5
+A4	Roots + Soil 	Plain agar	light	5.5
+A4	Roots + Soil 	PDA	light	14
+A4	Roots + Soil 	PDA	light	16
+A4	Roots + Soil 	PDA	light	14.5
+A4	Roots + Soil 	PDA	light	14
+A4	Roots + Soil 	PDA	light	13.5
+A4	Roots + Soil 	PDA	light	14
+A4	Roots + Soil 	PDA	light	14
+A4	Roots + Soil 	PDA	light	15.5
+A4	Roots + Soil 	PDA	light	13.5
+A4	Roots + Soil 	PDA	light	16
+A4	Roots + Soil 	PDA	light	16
+A4	Roots + Soil 	PDA	light	13
+A4	Roots + Soil 	PDA	light	14
+A4	Roots + Soil 	PDA	light	13.5
+A4	Roots + Soil 	PDA	light	16.5
+A4	Roots + Soil 	PDA	light	14
+A4	Roots + Soil 	PDA	light	14
+A4	Roots + Soil 	PDA	light	16
+A4	Roots + Soil 	PDA	light	15
+A4	Roots + Soil 	PDA	light	13.5
+A4	Soil + Litter + Roots	Plain agar	light	8
+A4	Soil + Litter + Roots	Plain agar	light	5.5
+A4	Soil + Litter + Roots	Plain agar	light	7
+A4	Soil + Litter + Roots	Plain agar	light	8
+A4	Soil + Litter + Roots	Plain agar	light	5.5
+A4	Soil + Litter + Roots	Plain agar	light	8.5
+A4	Soil + Litter + Roots	Plain agar	light	7
+A4	Soil + Litter + Roots	Plain agar	light	6
+A4	Soil + Litter + Roots	Plain agar	light	8
+A4	Soil + Litter + Roots	Plain agar	light	9
+A4	Soil + Litter + Roots	Plain agar	light	7
+A4	Soil + Litter + Roots	Plain agar	light	6.5
+A4	Soil + Litter + Roots	Plain agar	light	8.5
+A4	Soil + Litter + Roots	Plain agar	light	11
+A4	Soil + Litter + Roots	Plain agar	light	9.5
+A4	Soil + Litter + Roots	Plain agar	light	7
+A4	Soil + Litter + Roots	Plain agar	light	5.5
+A4	Soil + Litter + Roots	Plain agar	light	5.5
+A4	Soil + Litter + Roots	Plain agar	light	6
+A4	Soil + Litter + Roots	Plain agar	light	6.5
+A4	Soil + Litter + Roots	PDA	light	13
+A4	Soil + Litter + Roots	PDA	light	12.5
+A4	Soil + Litter + Roots	PDA	light	11
+A4	Soil + Litter + Roots	PDA	light	13.5
+A4	Soil + Litter + Roots	PDA	light	13
+A4	Soil + Litter + Roots	PDA	light	13.5
+A4	Soil + Litter + Roots	PDA	light	14.5
+A4	Soil + Litter + Roots	PDA	light	15.5
+A4	Soil + Litter + Roots	PDA	light	13.5
+A4	Soil + Litter + Roots	PDA	light	13
+A4	Soil + Litter + Roots	PDA	light	13.5
+A4	Soil + Litter + Roots	PDA	light	13
+A4	Soil + Litter + Roots	PDA	light	12.5
+A4	Soil + Litter + Roots	PDA	light	17
+A4	Soil + Litter + Roots	PDA	light	14
+A4	Soil + Litter + Roots	PDA	light	12
+A4	Soil + Litter + Roots	PDA	light	14.5
+A4	Soil + Litter + Roots	PDA	light	14
+A4	Soil + Litter + Roots	PDA	light	14.5
+A4	Soil + Litter + Roots	PDA	light	13.5
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	Plain agar	dark	0
+A4	Leaves	PDA	dark	2
+A4	Leaves	PDA	dark	2.5
+A4	Leaves	PDA	dark	2.5
+A4	Leaves	PDA	dark	3.5
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Leaves	PDA	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	Plain agar	dark	0
+A4	Litter	PDA	dark	14.5
+A4	Litter	PDA	dark	18
+A4	Litter	PDA	dark	15.5
+A4	Litter	PDA	dark	14
+A4	Litter	PDA	dark	19
+A4	Litter	PDA	dark	17.5
+A4	Litter	PDA	dark	19.5
+A4	Litter	PDA	dark	19
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	Plain agar	dark	0
+A4	H2O	PDA	dark	23
+A4	H2O	PDA	dark	16.5
+A4	H2O	PDA	dark	20
+A4	H2O	PDA	dark	22
+A4	H2O	PDA	dark	21.5
+A4	H2O	PDA	dark	20
+A4	H2O	PDA	dark	20
+A4	H2O	PDA	dark	21.5
+A4	H2O	PDA	dark	18.5
+A4	H2O	PDA	dark	18
+A4	H2O	PDA	dark	19.5
+A4	H2O	PDA	dark	18
+A4	H2O	PDA	dark	17.5
+A4	H2O	PDA	dark	19
+A4	H2O	PDA	dark	17.5
+A4	H2O	PDA	dark	17
+A4	H2O	PDA	dark	19
+A4	H2O	PDA	dark	17
+A4	H2O	PDA	dark	16
+A4	H2O	PDA	dark	16.5
+A4	Soil + Litter	Plain agar	dark	1
+A4	Soil + Litter	Plain agar	dark	1.5
+A4	Soil + Litter	Plain agar	dark	1.5
+A4	Soil + Litter	Plain agar	dark	1
+A4	Soil + Litter	Plain agar	dark	4.5
+A4	Soil + Litter	Plain agar	dark	6.5
+A4	Soil + Litter	Plain agar	dark	6
+A4	Soil + Litter	Plain agar	dark	6.5
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	Plain agar	dark	0
+A4	Soil + Litter	PDA	dark	15
+A4	Soil + Litter	PDA	dark	16
+A4	Soil + Litter	PDA	dark	16
+A4	Soil + Litter	PDA	dark	15
+A4	Soil + Litter	PDA	dark	15.5
+A4	Soil + Litter	PDA	dark	14
+A4	Soil + Litter	PDA	dark	15
+A4	Soil + Litter	PDA	dark	17
+A4	Soil + Litter	PDA	dark	13.5
+A4	Soil + Litter	PDA	dark	16.5
+A4	Soil + Litter	PDA	dark	15.5
+A4	Soil + Litter	PDA	dark	16
+A4	Soil + Litter	PDA	dark	16
+A4	Soil + Litter	PDA	dark	17
+A4	Soil + Litter	PDA	dark	16
+A4	Soil + Litter	PDA	dark	16
+A4	Soil + Litter	PDA	dark	15.5
+A4	Soil + Litter	PDA	dark	15
+A4	Soil + Litter	PDA	dark	16
+A4	Soil + Litter	PDA	dark	17
+A4	Seeds	Plain agar	dark	2
+A4	Seeds	Plain agar	dark	3
+A4	Seeds	Plain agar	dark	4.5
+A4	Seeds	Plain agar	dark	2
+A4	Seeds	Plain agar	dark	6
+A4	Seeds	Plain agar	dark	5.5
+A4	Seeds	Plain agar	dark	6
+A4	Seeds	Plain agar	dark	6
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	Plain agar	dark	0
+A4	Seeds	PDA	dark	16.5
+A4	Seeds	PDA	dark	16.5
+A4	Seeds	PDA	dark	16.5
+A4	Seeds	PDA	dark	14.5
+A4	Seeds	PDA	dark	15
+A4	Seeds	PDA	dark	16.5
+A4	Seeds	PDA	dark	15
+A4	Seeds	PDA	dark	17
+A4	Seeds	PDA	dark	14.5
+A4	Seeds	PDA	dark	16
+A4	Seeds	PDA	dark	15.5
+A4	Seeds	PDA	dark	13.5
+A4	Seeds	PDA	dark	16
+A4	Seeds	PDA	dark	15.5
+A4	Seeds	PDA	dark	15.5
+A4	Seeds	PDA	dark	14.5
+A4	Seeds	PDA	dark	14.5
+A4	Seeds	PDA	dark	13.5
+A4	Seeds	PDA	dark	14.5
+A4	Seeds	PDA	dark	16
+A4	Berries	Plain agar	dark	6.5
+A4	Berries	Plain agar	dark	7
+A4	Berries	Plain agar	dark	6
+A4	Berries	Plain agar	dark	5
+A4	Berries	Plain agar	dark	8.5
+A4	Berries	Plain agar	dark	5
+A4	Berries	Plain agar	dark	3.5
+A4	Berries	Plain agar	dark	5.5
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	Plain agar	dark	0
+A4	Berries	PDA	dark	15
+A4	Berries	PDA	dark	14.5
+A4	Berries	PDA	dark	16
+A4	Berries	PDA	dark	14.5
+A4	Berries	PDA	dark	14.5
+A4	Berries	PDA	dark	16
+A4	Berries	PDA	dark	15.5
+A4	Berries	PDA	dark	14.5
+A4	Berries	PDA	dark	15
+A4	Berries	PDA	dark	15
+A4	Berries	PDA	dark	15.5
+A4	Berries	PDA	dark	14.5
+A4	Berries	PDA	dark	14
+A4	Berries	PDA	dark	14.5
+A4	Berries	PDA	dark	16
+A4	Berries	PDA	dark	14.5
+A4	Berries	PDA	dark	16.5
+A4	Berries	PDA	dark	15
+A4	Berries	PDA	dark	15
+A4	Berries	PDA	dark	16
+A4	Sees + Berries	Plain agar	dark	7
+A4	Sees + Berries	Plain agar	dark	5
+A4	Sees + Berries	Plain agar	dark	6
+A4	Sees + Berries	Plain agar	dark	4.5
+A4	Sees + Berries	Plain agar	dark	6
+A4	Sees + Berries	Plain agar	dark	5.5
+A4	Sees + Berries	Plain agar	dark	6
+A4	Sees + Berries	Plain agar	dark	4.5
+A4	Sees + Berries	Plain agar	dark	5
+A4	Sees + Berries	Plain agar	dark	6
+A4	Sees + Berries	Plain agar	dark	6.5
+A4	Sees + Berries	Plain agar	dark	7
+A4	Sees + Berries	Plain agar	dark	6
+A4	Sees + Berries	Plain agar	dark	7
+A4	Sees + Berries	Plain agar	dark	5.5
+A4	Sees + Berries	Plain agar	dark	5.5
+A4	Sees + Berries	Plain agar	dark	6
+A4	Sees + Berries	Plain agar	dark	6.5
+A4	Sees + Berries	Plain agar	dark	6
+A4	Sees + Berries	Plain agar	dark	5
+A4	Sees + Berries	PDA	dark	17.5
+A4	Sees + Berries	PDA	dark	14.5
+A4	Sees + Berries	PDA	dark	13
+A4	Sees + Berries	PDA	dark	15
+A4	Sees + Berries	PDA	dark	14.5
+A4	Sees + Berries	PDA	dark	14
+A4	Sees + Berries	PDA	dark	13.5
+A4	Sees + Berries	PDA	dark	14
+A4	Sees + Berries	PDA	dark	15.5
+A4	Sees + Berries	PDA	dark	15
+A4	Sees + Berries	PDA	dark	14
+A4	Sees + Berries	PDA	dark	13
+A4	Sees + Berries	PDA	dark	15
+A4	Sees + Berries	PDA	dark	14
+A4	Sees + Berries	PDA	dark	14.5
+A4	Sees + Berries	PDA	dark	14.5
+A4	Sees + Berries	PDA	dark	13.5
+A4	Sees + Berries	PDA	dark	14
+A4	Sees + Berries	PDA	dark	14
+A4	Sees + Berries	PDA	dark	16
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	Plain agar	dark	0
+A4	Roots	PDA	dark	16
+A4	Roots	PDA	dark	18.5
+A4	Roots	PDA	dark	16.5
+A4	Roots	PDA	dark	17
+A4	Roots	PDA	dark	16.5
+A4	Roots	PDA	dark	16.5
+A4	Roots	PDA	dark	17
+A4	Roots	PDA	dark	15.5
+A4	Roots	PDA	dark	17
+A4	Roots	PDA	dark	17.5
+A4	Roots	PDA	dark	16.5
+A4	Roots	PDA	dark	16
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	Plain agar	dark	0
+A4	Soil	PDA	dark	15.5
+A4	Soil	PDA	dark	14.5
+A4	Soil	PDA	dark	17
+A4	Soil	PDA	dark	12
+A4	Soil	PDA	dark	13
+A4	Soil	PDA	dark	11.5
+A4	Soil	PDA	dark	13.5
+A4	Soil	PDA	dark	14
+A4	Soil	PDA	dark	14
+A4	Soil	PDA	dark	14
+A4	Soil	PDA	dark	14.5
+A4	Soil	PDA	dark	15
+A4	Soil	PDA	dark	16
+A4	Soil	PDA	dark	16.5
+A4	Soil	PDA	dark	16.5
+A4	Soil	PDA	dark	16.5
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	2.5
+A4	Roots + Soil 	Plain agar	dark	3.5
+A4	Roots + Soil 	Plain agar	dark	1
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	1.5
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	1
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	Plain agar	dark	0
+A4	Roots + Soil 	PDA	dark	16
+A4	Roots + Soil 	PDA	dark	14.5
+A4	Roots + Soil 	PDA	dark	16.5
+A4	Roots + Soil 	PDA	dark	14
+A4	Roots + Soil 	PDA	dark	15
+A4	Roots + Soil 	PDA	dark	15
+A4	Roots + Soil 	PDA	dark	16
+A4	Roots + Soil 	PDA	dark	15.5
+A4	Roots + Soil 	PDA	dark	15
+A4	Roots + Soil 	PDA	dark	16.5
+A4	Roots + Soil 	PDA	dark	16
+A4	Roots + Soil 	PDA	dark	16
+A4	Roots + Soil 	PDA	dark	15.5
+A4	Roots + Soil 	PDA	dark	17.5
+A4	Roots + Soil 	PDA	dark	16.5
+A4	Roots + Soil 	PDA	dark	15.5
+A4	Roots + Soil 	PDA	dark	12
+A4	Roots + Soil 	PDA	dark	15
+A4	Roots + Soil 	PDA	dark	16
+A4	Roots + Soil 	PDA	dark	14.5
+A4	Soil + Litter + Roots	Plain agar	dark	3.5
+A4	Soil + Litter + Roots	Plain agar	dark	4
+A4	Soil + Litter + Roots	Plain agar	dark	4.5
+A4	Soil + Litter + Roots	Plain agar	dark	4
+A4	Soil + Litter + Roots	Plain agar	dark	3.5
+A4	Soil + Litter + Roots	Plain agar	dark	3.5
+A4	Soil + Litter + Roots	Plain agar	dark	4
+A4	Soil + Litter + Roots	Plain agar	dark	3
+A4	Soil + Litter + Roots	Plain agar	dark	13
+A4	Soil + Litter + Roots	Plain agar	dark	11
+A4	Soil + Litter + Roots	Plain agar	dark	10
+A4	Soil + Litter + Roots	Plain agar	dark	8
+A4	Soil + Litter + Roots	Plain agar	dark	11
+A4	Soil + Litter + Roots	Plain agar	dark	11
+A4	Soil + Litter + Roots	Plain agar	dark	9
+A4	Soil + Litter + Roots	Plain agar	dark	10
+A4	Soil + Litter + Roots	Plain agar	dark	9
+A4	Soil + Litter + Roots	Plain agar	dark	11
+A4	Soil + Litter + Roots	Plain agar	dark	10
+A4	Soil + Litter + Roots	Plain agar	dark	11
+A4	Soil + Litter + Roots	PDA	dark	15.5
+A4	Soil + Litter + Roots	PDA	dark	15.5
+A4	Soil + Litter + Roots	PDA	dark	14
+A4	Soil + Litter + Roots	PDA	dark	13
+A4	Soil + Litter + Roots	PDA	dark	14.5
+A4	Soil + Litter + Roots	PDA	dark	16
+A4	Soil + Litter + Roots	PDA	dark	14.5
+A4	Soil + Litter + Roots	PDA	dark	15
+A4	Soil + Litter + Roots	PDA	dark	11
+A4	Soil + Litter + Roots	PDA	dark	16.5
+A4	Soil + Litter + Roots	PDA	dark	13.5
+A4	Soil + Litter + Roots	PDA	dark	13
+A4	Soil + Litter + Roots	PDA	dark	14
+A4	Soil + Litter + Roots	PDA	dark	14
+A4	Soil + Litter + Roots	PDA	dark	15
+A4	Soil + Litter + Roots	PDA	dark	17.5
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	Plain agar	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Leaves	PDA	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	Plain agar	light	0
+A5	Litter	PDA	light	19
+A5	Litter	PDA	light	17.5
+A5	Litter	PDA	light	18.5
+A5	Litter	PDA	light	18.5
+A5	Litter	PDA	light	18.5
+A5	Litter	PDA	light	19.5
+A5	Litter	PDA	light	17
+A5	Litter	PDA	light	16.5
+A5	Litter	PDA	light	16
+A5	Litter	PDA	light	17.5
+A5	Litter	PDA	light	17.5
+A5	Litter	PDA	light	17
+A5	Litter	PDA	light	16
+A5	Litter	PDA	light	17
+A5	Litter	PDA	light	17.5
+A5	Litter	PDA	light	17.5
+A5	Litter	PDA	light	20
+A5	Litter	PDA	light	17.5
+A5	Litter	PDA	light	18
+A5	Litter	PDA	light	16.5
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	Plain agar	light	0
+A5	H2O	PDA	light	21.5
+A5	H2O	PDA	light	25
+A5	H2O	PDA	light	24.5
+A5	H2O	PDA	light	21.5
+A5	H2O	PDA	light	22.5
+A5	H2O	PDA	light	22
+A5	H2O	PDA	light	21
+A5	H2O	PDA	light	21
+A5	H2O	PDA	light	18
+A5	H2O	PDA	light	19.5
+A5	H2O	PDA	light	18.5
+A5	H2O	PDA	light	20.5
+A5	H2O	PDA	light	0
+A5	H2O	PDA	light	0
+A5	H2O	PDA	light	0
+A5	H2O	PDA	light	0
+A5	H2O	PDA	light	0
+A5	H2O	PDA	light	0
+A5	H2O	PDA	light	0
+A5	H2O	PDA	light	0
+A5	Soil + Litter	Plain agar	light	0.5
+A5	Soil + Litter	Plain agar	light	6
+A5	Soil + Litter	Plain agar	light	2.5
+A5	Soil + Litter	Plain agar	light	1
+A5	Soil + Litter	Plain agar	light	9
+A5	Soil + Litter	Plain agar	light	11.5
+A5	Soil + Litter	Plain agar	light	8.5
+A5	Soil + Litter	Plain agar	light	6
+A5	Soil + Litter	Plain agar	light	5.5
+A5	Soil + Litter	Plain agar	light	8
+A5	Soil + Litter	Plain agar	light	7.5
+A5	Soil + Litter	Plain agar	light	6.5
+A5	Soil + Litter	Plain agar	light	10
+A5	Soil + Litter	Plain agar	light	11.5
+A5	Soil + Litter	Plain agar	light	10
+A5	Soil + Litter	Plain agar	light	10
+A5	Soil + Litter	Plain agar	light	7.5
+A5	Soil + Litter	Plain agar	light	10.5
+A5	Soil + Litter	Plain agar	light	10.5
+A5	Soil + Litter	Plain agar	light	9
+A5	Soil + Litter	PDA	light	18.5
+A5	Soil + Litter	PDA	light	18.5
+A5	Soil + Litter	PDA	light	20.5
+A5	Soil + Litter	PDA	light	19
+A5	Soil + Litter	PDA	light	15
+A5	Soil + Litter	PDA	light	15
+A5	Soil + Litter	PDA	light	16.5
+A5	Soil + Litter	PDA	light	16
+A5	Soil + Litter	PDA	light	14
+A5	Soil + Litter	PDA	light	15
+A5	Soil + Litter	PDA	light	14.5
+A5	Soil + Litter	PDA	light	13
+A5	Soil + Litter	PDA	light	0
+A5	Soil + Litter	PDA	light	0
+A5	Soil + Litter	PDA	light	0
+A5	Soil + Litter	PDA	light	0
+A5	Soil + Litter	PDA	light	0
+A5	Soil + Litter	PDA	light	0
+A5	Soil + Litter	PDA	light	0
+A5	Soil + Litter	PDA	light	0
+A5	Seeds	Plain agar	light	6
+A5	Seeds	Plain agar	light	5
+A5	Seeds	Plain agar	light	5
+A5	Seeds	Plain agar	light	10.5
+A5	Seeds	Plain agar	light	6
+A5	Seeds	Plain agar	light	5
+A5	Seeds	Plain agar	light	4.5
+A5	Seeds	Plain agar	light	7
+A5	Seeds	Plain agar	light	6.5
+A5	Seeds	Plain agar	light	4.5
+A5	Seeds	Plain agar	light	6.5
+A5	Seeds	Plain agar	light	4.5
+A5	Seeds	Plain agar	light	8
+A5	Seeds	Plain agar	light	6
+A5	Seeds	Plain agar	light	6
+A5	Seeds	Plain agar	light	7
+A5	Seeds	Plain agar	light	9.5
+A5	Seeds	Plain agar	light	7.5
+A5	Seeds	Plain agar	light	7.5
+A5	Seeds	Plain agar	light	7
+A5	Seeds	PDA	light	15.5
+A5	Seeds	PDA	light	17.5
+A5	Seeds	PDA	light	16
+A5	Seeds	PDA	light	16
+A5	Seeds	PDA	light	18.5
+A5	Seeds	PDA	light	19
+A5	Seeds	PDA	light	18.5
+A5	Seeds	PDA	light	17.5
+A5	Seeds	PDA	light	19
+A5	Seeds	PDA	light	18.5
+A5	Seeds	PDA	light	20
+A5	Seeds	PDA	light	18.5
+A5	Seeds	PDA	light	18
+A5	Seeds	PDA	light	18.5
+A5	Seeds	PDA	light	17.5
+A5	Seeds	PDA	light	15
+A5	Seeds	PDA	light	17
+A5	Seeds	PDA	light	19.5
+A5	Seeds	PDA	light	15.5
+A5	Seeds	PDA	light	16
+A5	Berries	Plain agar	light	4
+A5	Berries	Plain agar	light	6
+A5	Berries	Plain agar	light	4.5
+A5	Berries	Plain agar	light	4.5
+A5	Berries	Plain agar	light	9.5
+A5	Berries	Plain agar	light	8.5
+A5	Berries	Plain agar	light	12
+A5	Berries	Plain agar	light	11.5
+A5	Berries	Plain agar	light	7.5
+A5	Berries	Plain agar	light	6.5
+A5	Berries	Plain agar	light	8.5
+A5	Berries	Plain agar	light	8
+A5	Berries	Plain agar	light	8
+A5	Berries	Plain agar	light	8
+A5	Berries	Plain agar	light	10
+A5	Berries	Plain agar	light	9.5
+A5	Berries	Plain agar	light	10.5
+A5	Berries	Plain agar	light	9
+A5	Berries	Plain agar	light	10
+A5	Berries	Plain agar	light	8.5
+A5	Berries	PDA	light	17
+A5	Berries	PDA	light	17
+A5	Berries	PDA	light	16
+A5	Berries	PDA	light	18
+A5	Berries	PDA	light	18.5
+A5	Berries	PDA	light	15.5
+A5	Berries	PDA	light	16.5
+A5	Berries	PDA	light	14.5
+A5	Berries	PDA	light	19.5
+A5	Berries	PDA	light	15.5
+A5	Berries	PDA	light	16.5
+A5	Berries	PDA	light	19.5
+A5	Berries	PDA	light	15
+A5	Berries	PDA	light	15
+A5	Berries	PDA	light	16.5
+A5	Berries	PDA	light	17.5
+A5	Berries	PDA	light	18.5
+A5	Berries	PDA	light	17
+A5	Berries	PDA	light	15
+A5	Berries	PDA	light	15.5
+A5	Sees + Berries	Plain agar	light	6.5
+A5	Sees + Berries	Plain agar	light	6.5
+A5	Sees + Berries	Plain agar	light	5
+A5	Sees + Berries	Plain agar	light	6.5
+A5	Sees + Berries	Plain agar	light	6
+A5	Sees + Berries	Plain agar	light	6.5
+A5	Sees + Berries	Plain agar	light	4.5
+A5	Sees + Berries	Plain agar	light	5
+A5	Sees + Berries	Plain agar	light	5.5
+A5	Sees + Berries	Plain agar	light	5
+A5	Sees + Berries	Plain agar	light	6
+A5	Sees + Berries	Plain agar	light	7.5
+A5	Sees + Berries	Plain agar	light	4
+A5	Sees + Berries	Plain agar	light	5
+A5	Sees + Berries	Plain agar	light	5.5
+A5	Sees + Berries	Plain agar	light	5
+A5	Sees + Berries	Plain agar	light	3.5
+A5	Sees + Berries	Plain agar	light	5
+A5	Sees + Berries	Plain agar	light	7
+A5	Sees + Berries	Plain agar	light	6.5
+A5	Sees + Berries	PDA	light	15.5
+A5	Sees + Berries	PDA	light	16.5
+A5	Sees + Berries	PDA	light	15.5
+A5	Sees + Berries	PDA	light	15.5
+A5	Sees + Berries	PDA	light	16.5
+A5	Sees + Berries	PDA	light	16.5
+A5	Sees + Berries	PDA	light	15.5
+A5	Sees + Berries	PDA	light	14.5
+A5	Sees + Berries	PDA	light	14.5
+A5	Sees + Berries	PDA	light	14
+A5	Sees + Berries	PDA	light	15.5
+A5	Sees + Berries	PDA	light	15
+A5	Sees + Berries	PDA	light	14.5
+A5	Sees + Berries	PDA	light	14
+A5	Sees + Berries	PDA	light	15.5
+A5	Sees + Berries	PDA	light	14
+A5	Sees + Berries	PDA	light	16.5
+A5	Sees + Berries	PDA	light	15.5
+A5	Sees + Berries	PDA	light	18
+A5	Sees + Berries	PDA	light	17
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	Plain agar	light	0
+A5	Roots	PDA	light	18
+A5	Roots	PDA	light	16
+A5	Roots	PDA	light	17
+A5	Roots	PDA	light	16.5
+A5	Roots	PDA	light	17
+A5	Roots	PDA	light	17
+A5	Roots	PDA	light	17.5
+A5	Roots	PDA	light	18
+A5	Roots	PDA	light	18
+A5	Roots	PDA	light	17.5
+A5	Roots	PDA	light	19
+A5	Roots	PDA	light	18.5
+A5	Roots	PDA	light	18.5
+A5	Roots	PDA	light	17
+A5	Roots	PDA	light	17.5
+A5	Roots	PDA	light	18
+A5	Roots	PDA	light	18
+A5	Roots	PDA	light	16.5
+A5	Roots	PDA	light	18
+A5	Roots	PDA	light	19
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	Plain agar	light	0
+A5	Soil	PDA	light	19.5
+A5	Soil	PDA	light	18
+A5	Soil	PDA	light	19
+A5	Soil	PDA	light	17
+A5	Soil	PDA	light	17
+A5	Soil	PDA	light	18.5
+A5	Soil	PDA	light	18
+A5	Soil	PDA	light	17
+A5	Soil	PDA	light	17
+A5	Soil	PDA	light	17
+A5	Soil	PDA	light	17
+A5	Soil	PDA	light	19.5
+A5	Soil	PDA	light	18.5
+A5	Soil	PDA	light	19
+A5	Soil	PDA	light	18
+A5	Soil	PDA	light	18.5
+A5	Soil	PDA	light	16.5
+A5	Soil	PDA	light	18.5
+A5	Soil	PDA	light	19
+A5	Soil	PDA	light	17.5
+A5	Roots + Soil 	Plain agar	light	6.5
+A5	Roots + Soil 	Plain agar	light	5.5
+A5	Roots + Soil 	Plain agar	light	7
+A5	Roots + Soil 	Plain agar	light	4.5
+A5	Roots + Soil 	Plain agar	light	5
+A5	Roots + Soil 	Plain agar	light	6.5
+A5	Roots + Soil 	Plain agar	light	4
+A5	Roots + Soil 	Plain agar	light	5.5
+A5	Roots + Soil 	Plain agar	light	5
+A5	Roots + Soil 	Plain agar	light	5.5
+A5	Roots + Soil 	Plain agar	light	6
+A5	Roots + Soil 	Plain agar	light	7.5
+A5	Roots + Soil 	Plain agar	light	3.5
+A5	Roots + Soil 	Plain agar	light	4.5
+A5	Roots + Soil 	Plain agar	light	5.5
+A5	Roots + Soil 	Plain agar	light	5.5
+A5	Roots + Soil 	Plain agar	light	7.5
+A5	Roots + Soil 	Plain agar	light	7
+A5	Roots + Soil 	Plain agar	light	5
+A5	Roots + Soil 	Plain agar	light	3
+A5	Roots + Soil 	PDA	light	15
+A5	Roots + Soil 	PDA	light	12.5
+A5	Roots + Soil 	PDA	light	14
+A5	Roots + Soil 	PDA	light	10.5
+A5	Roots + Soil 	PDA	light	20
+A5	Roots + Soil 	PDA	light	20
+A5	Roots + Soil 	PDA	light	7
+A5	Roots + Soil 	PDA	light	18
+A5	Roots + Soil 	PDA	light	22
+A5	Roots + Soil 	PDA	light	20.5
+A5	Roots + Soil 	PDA	light	14.5
+A5	Roots + Soil 	PDA	light	21
+A5	Roots + Soil 	PDA	light	21
+A5	Roots + Soil 	PDA	light	20
+A5	Roots + Soil 	PDA	light	20
+A5	Roots + Soil 	PDA	light	21.5
+A5	Roots + Soil 	PDA	light	18
+A5	Roots + Soil 	PDA	light	21
+A5	Roots + Soil 	PDA	light	19
+A5	Roots + Soil 	PDA	light	19.5
+A5	Soil + Litter + Roots	Plain agar	light	5
+A5	Soil + Litter + Roots	Plain agar	light	6
+A5	Soil + Litter + Roots	Plain agar	light	5.5
+A5	Soil + Litter + Roots	Plain agar	light	5.5
+A5	Soil + Litter + Roots	Plain agar	light	6.5
+A5	Soil + Litter + Roots	Plain agar	light	8.5
+A5	Soil + Litter + Roots	Plain agar	light	12.5
+A5	Soil + Litter + Roots	Plain agar	light	8.5
+A5	Soil + Litter + Roots	Plain agar	light	9
+A5	Soil + Litter + Roots	Plain agar	light	9.5
+A5	Soil + Litter + Roots	Plain agar	light	9.5
+A5	Soil + Litter + Roots	Plain agar	light	8.5
+A5	Soil + Litter + Roots	Plain agar	light	8
+A5	Soil + Litter + Roots	Plain agar	light	7.5
+A5	Soil + Litter + Roots	Plain agar	light	8
+A5	Soil + Litter + Roots	Plain agar	light	11.5
+A5	Soil + Litter + Roots	Plain agar	light	7
+A5	Soil + Litter + Roots	Plain agar	light	8.5
+A5	Soil + Litter + Roots	Plain agar	light	7.5
+A5	Soil + Litter + Roots	Plain agar	light	5.5
+A5	Soil + Litter + Roots	PDA	light	12.5
+A5	Soil + Litter + Roots	PDA	light	13.5
+A5	Soil + Litter + Roots	PDA	light	14.5
+A5	Soil + Litter + Roots	PDA	light	12.5
+A5	Soil + Litter + Roots	PDA	light	15
+A5	Soil + Litter + Roots	PDA	light	17.5
+A5	Soil + Litter + Roots	PDA	light	16.5
+A5	Soil + Litter + Roots	PDA	light	16
+A5	Soil + Litter + Roots	PDA	light	17.5
+A5	Soil + Litter + Roots	PDA	light	15.5
+A5	Soil + Litter + Roots	PDA	light	17
+A5	Soil + Litter + Roots	PDA	light	18
+A5	Soil + Litter + Roots	PDA	light	17.5
+A5	Soil + Litter + Roots	PDA	light	18.5
+A5	Soil + Litter + Roots	PDA	light	17.5
+A5	Soil + Litter + Roots	PDA	light	17.5
+A5	Soil + Litter + Roots	PDA	light	15.5
+A5	Soil + Litter + Roots	PDA	light	16
+A5	Soil + Litter + Roots	PDA	light	14
+A5	Soil + Litter + Roots	PDA	light	18.5
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	Plain agar	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Leaves	PDA	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	Plain agar	dark	0
+A5	Litter	PDA	dark	19.5
+A5	Litter	PDA	dark	20.5
+A5	Litter	PDA	dark	19
+A5	Litter	PDA	dark	13.5
+A5	Litter	PDA	dark	17.5
+A5	Litter	PDA	dark	18.5
+A5	Litter	PDA	dark	17.5
+A5	Litter	PDA	dark	17
+A5	Litter	PDA	dark	20
+A5	Litter	PDA	dark	19
+A5	Litter	PDA	dark	18.5
+A5	Litter	PDA	dark	20.5
+A5	Litter	PDA	dark	20.5
+A5	Litter	PDA	dark	20
+A5	Litter	PDA	dark	19
+A5	Litter	PDA	dark	19.5
+A5	Litter	PDA	dark	19.5
+A5	Litter	PDA	dark	19
+A5	Litter	PDA	dark	20.5
+A5	Litter	PDA	dark	20.5
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	Plain agar	dark	0
+A5	H2O	PDA	dark	23.5
+A5	H2O	PDA	dark	23
+A5	H2O	PDA	dark	23
+A5	H2O	PDA	dark	25
+A5	H2O	PDA	dark	20.5
+A5	H2O	PDA	dark	22.5
+A5	H2O	PDA	dark	22.5
+A5	H2O	PDA	dark	21
+A5	H2O	PDA	dark	21.5
+A5	H2O	PDA	dark	22.5
+A5	H2O	PDA	dark	22.5
+A5	H2O	PDA	dark	22.5
+A5	H2O	PDA	dark	20
+A5	H2O	PDA	dark	22
+A5	H2O	PDA	dark	21.5
+A5	H2O	PDA	dark	23
+A5	Soil + Litter	Plain agar	dark	9.5
+A5	Soil + Litter	Plain agar	dark	12
+A5	Soil + Litter	Plain agar	dark	11
+A5	Soil + Litter	Plain agar	dark	10.5
+A5	Soil + Litter	Plain agar	dark	12.5
+A5	Soil + Litter	Plain agar	dark	9
+A5	Soil + Litter	Plain agar	dark	13
+A5	Soil + Litter	Plain agar	dark	12.5
+A5	Soil + Litter	Plain agar	dark	8
+A5	Soil + Litter	Plain agar	dark	6.5
+A5	Soil + Litter	Plain agar	dark	7
+A5	Soil + Litter	Plain agar	dark	7.5
+A5	Soil + Litter	Plain agar	dark	8
+A5	Soil + Litter	Plain agar	dark	7
+A5	Soil + Litter	Plain agar	dark	9.5
+A5	Soil + Litter	Plain agar	dark	7.5
+A5	Soil + Litter	Plain agar	dark	9
+A5	Soil + Litter	Plain agar	dark	9
+A5	Soil + Litter	Plain agar	dark	8
+A5	Soil + Litter	Plain agar	dark	9
+A5	Soil + Litter	PDA	dark	21
+A5	Soil + Litter	PDA	dark	18
+A5	Soil + Litter	PDA	dark	17
+A5	Soil + Litter	PDA	dark	18
+A5	Soil + Litter	PDA	dark	18.5
+A5	Soil + Litter	PDA	dark	19.5
+A5	Soil + Litter	PDA	dark	19
+A5	Soil + Litter	PDA	dark	17.5
+A5	Soil + Litter	PDA	dark	20
+A5	Soil + Litter	PDA	dark	19
+A5	Soil + Litter	PDA	dark	20.5
+A5	Soil + Litter	PDA	dark	17
+A5	Soil + Litter	PDA	dark	19.5
+A5	Soil + Litter	PDA	dark	22
+A5	Soil + Litter	PDA	dark	20.5
+A5	Soil + Litter	PDA	dark	17
+A5	Soil + Litter	PDA	dark	19.5
+A5	Soil + Litter	PDA	dark	20.5
+A5	Soil + Litter	PDA	dark	20
+A5	Soil + Litter	PDA	dark	19
+A5	Seeds	Plain agar	dark	8.5
+A5	Seeds	Plain agar	dark	8.5
+A5	Seeds	Plain agar	dark	9.5
+A5	Seeds	Plain agar	dark	7.5
+A5	Seeds	Plain agar	dark	8
+A5	Seeds	Plain agar	dark	6
+A5	Seeds	Plain agar	dark	9
+A5	Seeds	Plain agar	dark	9.5
+A5	Seeds	Plain agar	dark	7
+A5	Seeds	Plain agar	dark	7
+A5	Seeds	Plain agar	dark	7.5
+A5	Seeds	Plain agar	dark	6.5
+A5	Seeds	Plain agar	dark	5
+A5	Seeds	Plain agar	dark	6
+A5	Seeds	Plain agar	dark	5.5
+A5	Seeds	Plain agar	dark	4.5
+A5	Seeds	Plain agar	dark	7
+A5	Seeds	Plain agar	dark	7
+A5	Seeds	Plain agar	dark	5.5
+A5	Seeds	Plain agar	dark	6.5
+A5	Seeds	PDA	dark	18
+A5	Seeds	PDA	dark	17.5
+A5	Seeds	PDA	dark	17.5
+A5	Seeds	PDA	dark	18
+A5	Seeds	PDA	dark	18.5
+A5	Seeds	PDA	dark	20.5
+A5	Seeds	PDA	dark	19.5
+A5	Seeds	PDA	dark	18.5
+A5	Seeds	PDA	dark	20.5
+A5	Seeds	PDA	dark	18.5
+A5	Seeds	PDA	dark	21
+A5	Seeds	PDA	dark	20
+A5	Seeds	PDA	dark	18
+A5	Seeds	PDA	dark	19.5
+A5	Seeds	PDA	dark	19.5
+A5	Seeds	PDA	dark	18.5
+A5	Seeds	PDA	dark	0
+A5	Seeds	PDA	dark	0
+A5	Seeds	PDA	dark	0
+A5	Seeds	PDA	dark	0
+A5	Berries	Plain agar	dark	12.5
+A5	Berries	Plain agar	dark	12
+A5	Berries	Plain agar	dark	11.5
+A5	Berries	Plain agar	dark	12
+A5	Berries	Plain agar	dark	14.5
+A5	Berries	Plain agar	dark	10
+A5	Berries	Plain agar	dark	11
+A5	Berries	Plain agar	dark	11.5
+A5	Berries	Plain agar	dark	10
+A5	Berries	Plain agar	dark	11
+A5	Berries	Plain agar	dark	11
+A5	Berries	Plain agar	dark	12
+A5	Berries	Plain agar	dark	12.5
+A5	Berries	Plain agar	dark	14
+A5	Berries	Plain agar	dark	12.5
+A5	Berries	Plain agar	dark	11
+A5	Berries	Plain agar	dark	9.5
+A5	Berries	Plain agar	dark	9
+A5	Berries	Plain agar	dark	10
+A5	Berries	Plain agar	dark	11.5
+A5	Berries	PDA	dark	18.5
+A5	Berries	PDA	dark	18.5
+A5	Berries	PDA	dark	18.5
+A5	Berries	PDA	dark	20
+A5	Berries	PDA	dark	19.5
+A5	Berries	PDA	dark	18.5
+A5	Berries	PDA	dark	21
+A5	Berries	PDA	dark	18
+A5	Berries	PDA	dark	19.5
+A5	Berries	PDA	dark	21
+A5	Berries	PDA	dark	20
+A5	Berries	PDA	dark	19.5
+A5	Berries	PDA	dark	18
+A5	Berries	PDA	dark	20
+A5	Berries	PDA	dark	17
+A5	Berries	PDA	dark	18
+A5	Berries	PDA	dark	20.5
+A5	Berries	PDA	dark	18
+A5	Berries	PDA	dark	17.5
+A5	Berries	PDA	dark	17.5
+A5	Sees + Berries	Plain agar	dark	7
+A5	Sees + Berries	Plain agar	dark	7
+A5	Sees + Berries	Plain agar	dark	6.5
+A5	Sees + Berries	Plain agar	dark	6.5
+A5	Sees + Berries	Plain agar	dark	4.5
+A5	Sees + Berries	Plain agar	dark	6.5
+A5	Sees + Berries	Plain agar	dark	5.5
+A5	Sees + Berries	Plain agar	dark	5.5
+A5	Sees + Berries	Plain agar	dark	6.5
+A5	Sees + Berries	Plain agar	dark	5
+A5	Sees + Berries	Plain agar	dark	7
+A5	Sees + Berries	Plain agar	dark	5.5
+A5	Sees + Berries	Plain agar	dark	7
+A5	Sees + Berries	Plain agar	dark	5
+A5	Sees + Berries	Plain agar	dark	6
+A5	Sees + Berries	Plain agar	dark	10
+A5	Sees + Berries	PDA	dark	18.5
+A5	Sees + Berries	PDA	dark	19.5
+A5	Sees + Berries	PDA	dark	17.5
+A5	Sees + Berries	PDA	dark	18
+A5	Sees + Berries	PDA	dark	18.5
+A5	Sees + Berries	PDA	dark	20
+A5	Sees + Berries	PDA	dark	18
+A5	Sees + Berries	PDA	dark	18.5
+A5	Sees + Berries	PDA	dark	18.5
+A5	Sees + Berries	PDA	dark	16.5
+A5	Sees + Berries	PDA	dark	18.5
+A5	Sees + Berries	PDA	dark	18.5
+A5	Sees + Berries	PDA	dark	18
+A5	Sees + Berries	PDA	dark	17.5
+A5	Sees + Berries	PDA	dark	19
+A5	Sees + Berries	PDA	dark	18.5
+A5	Sees + Berries	PDA	dark	19
+A5	Sees + Berries	PDA	dark	18
+A5	Sees + Berries	PDA	dark	17
+A5	Sees + Berries	PDA	dark	17.5
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	Plain agar	dark	0
+A5	Roots	PDA	dark	20.5
+A5	Roots	PDA	dark	20.5
+A5	Roots	PDA	dark	19
+A5	Roots	PDA	dark	21.5
+A5	Roots	PDA	dark	0
+A5	Roots	PDA	dark	0
+A5	Roots	PDA	dark	0
+A5	Roots	PDA	dark	0
+A5	Roots	PDA	dark	18.5
+A5	Roots	PDA	dark	20.5
+A5	Roots	PDA	dark	21.5
+A5	Roots	PDA	dark	21
+A5	Roots	PDA	dark	20
+A5	Roots	PDA	dark	19.5
+A5	Roots	PDA	dark	21
+A5	Roots	PDA	dark	21
+A5	Roots	PDA	dark	0
+A5	Roots	PDA	dark	0
+A5	Roots	PDA	dark	0
+A5	Roots	PDA	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	Plain agar	dark	0
+A5	Soil	PDA	dark	21
+A5	Soil	PDA	dark	19.5
+A5	Soil	PDA	dark	20.5
+A5	Soil	PDA	dark	19
+A5	Soil	PDA	dark	22
+A5	Soil	PDA	dark	20
+A5	Soil	PDA	dark	19
+A5	Soil	PDA	dark	20
+A5	Soil	PDA	dark	21
+A5	Soil	PDA	dark	19.5
+A5	Soil	PDA	dark	18
+A5	Soil	PDA	dark	21
+A5	Soil	PDA	dark	0
+A5	Soil	PDA	dark	0
+A5	Soil	PDA	dark	0
+A5	Soil	PDA	dark	0
+A5	Soil	PDA	dark	0
+A5	Soil	PDA	dark	0
+A5	Soil	PDA	dark	0
+A5	Soil	PDA	dark	0
+A5	Roots + Soil 	Plain agar	dark	7.5
+A5	Roots + Soil 	Plain agar	dark	6
+A5	Roots + Soil 	Plain agar	dark	6.5
+A5	Roots + Soil 	Plain agar	dark	6.5
+A5	Roots + Soil 	Plain agar	dark	20
+A5	Roots + Soil 	Plain agar	dark	12.5
+A5	Roots + Soil 	Plain agar	dark	15
+A5	Roots + Soil 	Plain agar	dark	14.5
+A5	Roots + Soil 	Plain agar	dark	11
+A5	Roots + Soil 	Plain agar	dark	8
+A5	Roots + Soil 	Plain agar	dark	9.5
+A5	Roots + Soil 	Plain agar	dark	11.5
+A5	Roots + Soil 	Plain agar	dark	12.5
+A5	Roots + Soil 	Plain agar	dark	12
+A5	Roots + Soil 	Plain agar	dark	9.5
+A5	Roots + Soil 	Plain agar	dark	13
+A5	Roots + Soil 	Plain agar	dark	15
+A5	Roots + Soil 	Plain agar	dark	8.5
+A5	Roots + Soil 	Plain agar	dark	9.5
+A5	Roots + Soil 	Plain agar	dark	12
+A5	Roots + Soil 	PDA	dark	18
+A5	Roots + Soil 	PDA	dark	16
+A5	Roots + Soil 	PDA	dark	17
+A5	Roots + Soil 	PDA	dark	17.5
+A5	Roots + Soil 	PDA	dark	18
+A5	Roots + Soil 	PDA	dark	20
+A5	Roots + Soil 	PDA	dark	20.5
+A5	Roots + Soil 	PDA	dark	19
+A5	Roots + Soil 	PDA	dark	19.5
+A5	Roots + Soil 	PDA	dark	19
+A5	Roots + Soil 	PDA	dark	20.5
+A5	Roots + Soil 	PDA	dark	21.5
+A5	Roots + Soil 	PDA	dark	20.5
+A5	Roots + Soil 	PDA	dark	19
+A5	Roots + Soil 	PDA	dark	18
+A5	Roots + Soil 	PDA	dark	19
+A5	Roots + Soil 	PDA	dark	17.5
+A5	Roots + Soil 	PDA	dark	20
+A5	Roots + Soil 	PDA	dark	20
+A5	Roots + Soil 	PDA	dark	18.5
+A5	Soil + Litter + Roots	Plain agar	dark	7
+A5	Soil + Litter + Roots	Plain agar	dark	8.5
+A5	Soil + Litter + Roots	Plain agar	dark	7.5
+A5	Soil + Litter + Roots	Plain agar	dark	10
+A5	Soil + Litter + Roots	Plain agar	dark	10.5
+A5	Soil + Litter + Roots	Plain agar	dark	9
+A5	Soil + Litter + Roots	Plain agar	dark	14
+A5	Soil + Litter + Roots	Plain agar	dark	11.5
+A5	Soil + Litter + Roots	Plain agar	dark	13
+A5	Soil + Litter + Roots	Plain agar	dark	8.5
+A5	Soil + Litter + Roots	Plain agar	dark	10
+A5	Soil + Litter + Roots	Plain agar	dark	10.5
+A5	Soil + Litter + Roots	Plain agar	dark	11.5
+A5	Soil + Litter + Roots	Plain agar	dark	9
+A5	Soil + Litter + Roots	Plain agar	dark	10
+A5	Soil + Litter + Roots	Plain agar	dark	10.5
+A5	Soil + Litter + Roots	Plain agar	dark	8.5
+A5	Soil + Litter + Roots	Plain agar	dark	12.5
+A5	Soil + Litter + Roots	Plain agar	dark	9
+A5	Soil + Litter + Roots	Plain agar	dark	7
+A5	Soil + Litter + Roots	PDA	dark	19
+A5	Soil + Litter + Roots	PDA	dark	18.5
+A5	Soil + Litter + Roots	PDA	dark	18
+A5	Soil + Litter + Roots	PDA	dark	18
+A5	Soil + Litter + Roots	PDA	dark	19
+A5	Soil + Litter + Roots	PDA	dark	18.5
+A5	Soil + Litter + Roots	PDA	dark	20
+A5	Soil + Litter + Roots	PDA	dark	20
+A5	Soil + Litter + Roots	PDA	dark	18.5
+A5	Soil + Litter + Roots	PDA	dark	20
+A5	Soil + Litter + Roots	PDA	dark	17.5
+A5	Soil + Litter + Roots	PDA	dark	18
+A5	Soil + Litter + Roots	PDA	dark	17
+A5	Soil + Litter + Roots	PDA	dark	17.5
+A5	Soil + Litter + Roots	PDA	dark	19
+A5	Soil + Litter + Roots	PDA	dark	19.5
+A5	Soil + Litter + Roots	PDA	dark	18.5
+A5	Soil + Litter + Roots	PDA	dark	17.5
+A5	Soil + Litter + Roots	PDA	dark	17.5
+A5	Soil + Litter + Roots	PDA	dark	18

@@ -1,0 +1,57 @@
+looksee <- function()
+{
+### Purpose:- Firstlook at awheto and agar effects
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:-  9 Nov 2015, 09:11
+### ----------------------------------------------------------------------
+### Revisions:-
+
+require(grid)
+
+
+pdf(file = "AwhetoGrowthA.pdf", width = 188/25.4, height = 280/25.4)
+    trellis.par.set(kullas())
+    remove.shading()
+bwplot(Media ~ Growth | Agar + Luminosity + Awheto, data = eightW.df, layout = c(2, 4),
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+bwplot(Media ~ Growth | Agar + Awheto + Luminosity, data = eightW.df, layout = c(2, 4),
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+bwplot(Media ~ Growth | Awheto + Agar + Luminosity, data = eightW.df, layout = c(2, 4),
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+
+## omitting zeros
+bwplot(Media ~ Growth | Agar + Luminosity + Awheto, data = eightW.df,
+       subset = Growth > 0, layout = c(2, 4), panel = function(x, y, subscripts){
+         panel.df <- eightW.df[subscripts, ]
+         panel.count <- table(y)
+         ltext(rep(25.5, nrow(panel.df)), y, panel.count, col = "orange", cex = 0.5)
+         panel.bwplot(x,  y)
+       },
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+bwplot(Media ~ Growth | Agar + Awheto + Luminosity, data = eightW.df,
+       subset = Growth > 0, layout = c(2, 4), panel = function(x, y, subscripts){
+         panel.df <- eightW.df[subscripts, ]
+         panel.count <- table(y)
+         ltext(rep(25.5, nrow(panel.df)), y, panel.count, col = "orange", cex = 0.5)
+         panel.bwplot(x,  y)
+       },
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+bwplot(Media ~ Growth | Awheto + Agar + Luminosity, data = eightW.df,
+       subset = Growth > 0, layout = c(2, 4), panel = function(x, y, subscripts){
+         panel.df <- eightW.df[subscripts, ]
+         panel.count <- table(y)
+         ltext(rep(25.5, nrow(panel.df)), y, panel.count, col = "orange", cex = 0.5)
+         panel.bwplot(x,  y)
+       },
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+
+
+  dev.off()
+
+
+  
+}
