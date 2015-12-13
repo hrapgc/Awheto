@@ -39,3 +39,44 @@ bwplot(Media ~ Growth | Awheto + Agar + Luminosity, data = eightW.df,
 
 ## Modify above code to add in counts for each boxplot
 looksee() # >> AwhetoGrowthA.pdf
+
+### 10/12/15 Version 2 (averaged over 4 measures)
+eightWv2.df <- read.delim("AgarType2.txt")
+check.fact(eightWv2.df)
+## with(eightWv2.df, table(Growth))
+eightWv2.df <- within(eightWv2.df, Growth <- fact2num(Growth))
+eightWv2.df <- within(eightWv2.df, Treatment <- as.character(Treatment))
+eightWv2.df <- within(eightWv2.df, agar <- as.character(agar))
+eightWv2.df <- within(eightWv2.df, agar <- gsub('[[:space:]]', '', agar))
+eightWv2.df <- within(eightWv2.df, Treatment <- gsub('[[:space:]]', '', Treatment))
+eightWv2.df <- within(eightWv2.df, Treatment <- gsub('\\(', '', Treatment))
+eightWv2.df <- within(eightWv2.df, Treatment <- gsub('\\+$', '', Treatment))
+eightWv2.df <- within(eightWv2.df, Treatment <- gsub('\\+', ' + ', Treatment))
+
+eightWv2.df <- within(eightWv2.df, Agar <- factor(agar))
+eightWv2.df <- within(eightWv2.df, Awheto <- factor(paste("Apheto", Awheto)))
+eightWv2.df <- within(eightWv2.df, Media <- factor(Treatment))
+media.order2 <- levels(eightWv2.df$Media)[c(2:5, 1, 8, 10, 9, 6, 11, 7, 12)]
+eightWv2.df$Media <- factor(eightWv2.df$Media, levels = media.order2)
+
+looksee2() # >> AwhetoGrowthA2.pdf
+
+
+
+
+
+
+##############################################
+##
+## Github repository (xterm command line)
+##
+##########################################
+
+git config --global user.name "Tuxkid"
+git config --global core.editor "emacs"
+source ~/.bash_profile # to set the proxy server in this directory
+git init
+git add .
+git commit
+git remote add origin https://github.com/Tuxkid/Apheto.git 
+git push -u origin master

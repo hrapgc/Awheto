@@ -1,0 +1,473 @@
+Awheto	Luminosity	Treatment	agar	Growth
+4	light	Leaves + 	 PDA	0
+4	light	Leaves + 	 PDA	0
+4	light	Leaves + 	 PDA	0
+4	light	Leaves + 	 PDA	0
+4	light	Leaves + 	 PDA	0
+4	light	Soil + Litter + 	 PDA	15
+4	light	Soil + Litter + 	 PDA	14.875
+4	light	Soil + Litter + 	 PDA	15.75
+4	light	Soil + Litter + 	 PDA	16.125
+4	light	Soil + Litter + 	 PDA	15.125
+4	light	Seeds + 	 PDA	16.5
+4	light	Seeds + 	 PDA	15
+4	light	Seeds + 	 PDA	16.125
+4	light	Seeds + 	 PDA	16
+4	light	Seeds + 	 PDA	16.25
+4	light	Berries + 	 PDA	16.625
+4	light	Berries + 	 PDA	16.625
+4	light	Berries + 	 PDA	14.75
+4	light	Berries + 	 PDA	16.5
+4	light	Berries + 	 PDA	16.625
+4	light	Seeds + Berries + 	 PDA	14.875
+4	light	Seeds + Berries + 	 PDA	15.75
+4	light	Seeds + Berries + 	 PDA	16.25
+4	light	Seeds + Berries + 	 PDA	18.625
+4	light	Seeds + Berries + 	 PDA	15
+4	light	Roots + 	 PDA	16.5
+4	light	Roots + 	 PDA	17.75
+4	light	Roots + 	 PDA	18.375
+4	light	Roots + 	 PDA	15.875
+4	light	Roots + 	 PDA	16.5
+4	light	Litter +	 PDA	15.625
+4	light	Litter +	 PDA	14.125
+4	light	Litter +	 PDA	16
+4	light	Litter +	 PDA	14.25
+4	light	Litter +	 PDA	15.25
+4	light	Soil + 	 PDA	16.125
+4	light	Soil + 	 PDA	16.25
+4	light	Soil + 	 PDA	15.125
+4	light	Soil + 	 PDA	16.75
+4	light	Soil + 	 PDA	16.125
+4	light	Roots + Soil +	 PDA	15.5
+4	light	Roots + Soil +	 PDA	15.125
+4	light	Roots + Soil +	 PDA	14.875
+4	light	Roots + Soil +	 PDA	15.625
+4	light	Roots + Soil +	 PDA	15.5
+4	light	Roots + Soil + Litter +	 PDA	12.875
+4	light	Roots + Soil + Litter +	 PDA	13.75
+4	light	Roots + Soil + Litter +	 PDA	14.125
+4	light	Roots + Soil + Litter +	 PDA	13.375
+4	light	Roots + Soil + Litter +	 PDA	14
+4	light	H2O + 	 PDA	17.375
+4	light	H2O + 	 PDA	18.125
+4	light	H2O + 	 PDA	17.5
+4	light	H2O + 	 PDA	19.25
+4	light	H2O + 	 PDA	16.875
+4	light	H2O + 	 PDA	18.25
+4	light	H2O + 	 PDA	18.875
+4	light	H2O + 	 PDA	17.5
+4	light	H2O + 	 PDA	18.125
+4	light	H2O + 	 PDA	17.875
+4	light	H2O (	plain_agar	#VALUE!
+4	light	H2O (	plain_agar	0
+4	light	H2O (	plain_agar	0
+4	light	H2O (	plain_agar	0
+4	light	H2O (	plain_agar	0
+4	light	Leaves	plain_agar	0
+4	light	Leaves	plain_agar	0
+4	light	Leaves	plain_agar	0
+4	light	Leaves	plain_agar	0
+4	light	Leaves	plain_agar	0
+4	light	Litter	plain_agar	0
+4	light	Litter	plain_agar	0
+4	light	Litter	plain_agar	0
+4	light	Litter	plain_agar	1.75
+4	light	Litter	plain_agar	0
+4	light	H2O (	plain_agar	0
+4	light	H2O (	plain_agar	0
+4	light	H2O (	plain_agar	0
+4	light	H2O (	plain_agar	0
+4	light	H2O (	plain_agar	0
+4	light	Seeds	plain_agar	9.5
+4	light	Seeds	plain_agar	9.25
+4	light	Seeds	plain_agar	10.375
+4	light	Seeds	plain_agar	8.25
+4	light	Seeds	plain_agar	8.875
+4	light	Berries	plain_agar	7
+4	light	Berries	plain_agar	5.5
+4	light	Berries	plain_agar	8.125
+4	light	Berries	plain_agar	9.375
+4	light	Berries	plain_agar	9
+4	light	Seeds + Berries	plain_agar	6.25
+4	light	Seeds + Berries	plain_agar	7.5
+4	light	Seeds + Berries	plain_agar	7.25
+4	light	Seeds + Berries	plain_agar	7.25
+4	light	Seeds + Berries	plain_agar	6.875
+4	light	Roots	plain_agar	0
+4	light	Roots	plain_agar	0
+4	light	Roots	plain_agar	0
+4	light	Roots	plain_agar	0
+4	light	Roots	plain_agar	0
+4	light	Soil	plain_agar	0
+4	light	Soil	plain_agar	0
+4	light	Soil	plain_agar	0
+4	light	Soil	plain_agar	0
+4	light	Soil	plain_agar	0
+4	light	Roots + Soil	plain_agar	8.375
+4	light	Roots + Soil	plain_agar	8.375
+4	light	Roots + Soil	plain_agar	8.25
+4	light	Roots + Soil	plain_agar	9.375
+4	light	Roots + Soil	plain_agar	8.625
+4	light	Soil + Litter	plain_agar	9.75
+4	light	Soil + Litter	plain_agar	6.375
+4	light	Soil + Litter	plain_agar	9.25
+4	light	Soil + Litter	plain_agar	9.25
+4	light	Soil + Litter	plain_agar	6.875
+4	light	Soil + Litter + Roots	plain_agar	7.625
+4	light	Soil + Litter + Roots	plain_agar	7.75
+4	light	Soil + Litter + Roots	plain_agar	8.25
+4	light	Soil + Litter + Roots	plain_agar	10.25
+4	light	Soil + Litter + Roots	plain_agar	7.25
+4	dark 	Leaves + 	 PDA	3.125
+4	dark 	Leaves + 	 PDA	0
+4	dark 	Leaves + 	 PDA	0
+4	dark 	Leaves + 	 PDA	0
+4	dark 	Leaves + 	 PDA	0
+4	dark 	Soil + Litter + 	 PDA	16.125
+4	dark 	Soil + Litter + 	 PDA	15.25
+4	dark 	Soil + Litter + 	 PDA	15.25
+4	dark 	Soil + Litter + 	 PDA	16.75
+4	dark 	Soil + Litter + 	 PDA	16.125
+4	dark 	Seeds + 	 PDA	16.625
+4	dark 	Seeds + 	 PDA	17.625
+4	dark 	Seeds + 	 PDA	15.75
+4	dark 	Seeds + 	 PDA	15.875
+4	dark 	Seeds + 	 PDA	15.5
+4	dark 	Berries + 	 PDA	15.5
+4	dark 	Berries + 	 PDA	15.75
+4	dark 	Berries + 	 PDA	15.5
+4	dark 	Berries + 	 PDA	15.25
+4	dark 	Berries + 	 PDA	16.5
+4	dark 	Seeds + Berries + 	 PDA	16
+4	dark 	Seeds + Berries + 	 PDA	15.375
+4	dark 	Seeds + Berries + 	 PDA	14.5
+4	dark 	Seeds + Berries + 	 PDA	15.25
+4	dark 	Seeds + Berries + 	 PDA	14.625
+4	dark 	Roots + 	 PDA	#VALUE!
+4	dark 	Roots + 	 PDA	#VALUE!
+4	dark 	Roots + 	 PDA	17.875
+4	dark 	Roots + 	 PDA	16.875
+4	dark 	Roots + 	 PDA	17.375
+4	dark 	Litter +	 PDA	16.25
+4	dark 	Litter +	 PDA	#VALUE!
+4	dark 	Litter +	 PDA	#VALUE!
+4	dark 	Litter +	 PDA	#VALUE!
+4	dark 	Litter +	 PDA	20.125
+4	dark 	Soil + 	 PDA	#VALUE!
+4	dark 	Soil + 	 PDA	14.625
+4	dark 	Soil + 	 PDA	13.75
+4	dark 	Soil + 	 PDA	14.125
+4	dark 	Soil + 	 PDA	31.375
+4	dark 	Roots + Soil +	 PDA	15.5
+4	dark 	Roots + Soil +	 PDA	16
+4	dark 	Roots + Soil +	 PDA	16.875
+4	dark 	Roots + Soil +	 PDA	17.25
+4	dark 	Roots + Soil +	 PDA	15.125
+4	dark 	Roots + Soil + Litter +	 PDA	#VALUE!
+4	dark 	Roots + Soil + Litter +	 PDA	15.25
+4	dark 	Roots + Soil + Litter +	 PDA	16.375
+4	dark 	Roots + Soil + Litter +	 PDA	12
+4	dark 	Roots + Soil + Litter +	 PDA	14.5
+4	dark 	H2O + 	 PDA 	17.75
+4	dark 	H2O + 	 PDA 	21.5
+4	dark 	H2O + 	 PDA 	19
+4	dark 	H2O + 	 PDA 	18.625
+4	dark 	H2O + 	 PDA 	18
+4	dark 	H2O + 	 PDA 	21
+4	dark 	H2O + 	 PDA 	21
+4	dark 	H2O + 	 PDA 	19.25
+4	dark 	H2O + 	 PDA 	18.125
+4	dark 	H2O + 	 PDA 	18
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	H2O (	plain_agar	0
+4	dark 	Leaves	plain_agar	0
+4	dark 	Leaves	plain_agar	0
+4	dark 	Leaves	plain_agar	0
+4	dark 	Leaves	plain_agar	0
+4	dark 	Leaves	plain_agar	0
+4	dark 	Litter	plain_agar	0
+4	dark 	Litter	plain_agar	0
+4	dark 	Litter	plain_agar	0
+4	dark 	Litter	plain_agar	0
+4	dark 	Litter	plain_agar	0
+4	dark 	Seeds	plain_agar	0
+4	dark 	Seeds	plain_agar	0
+4	dark 	Seeds	plain_agar	0
+4	dark 	Seeds	plain_agar	3.25
+4	dark 	Seeds	plain_agar	7
+4	dark 	Berries	plain_agar	7.625
+4	dark 	Berries	plain_agar	0
+4	dark 	Berries	plain_agar	0
+4	dark 	Berries	plain_agar	0
+4	dark 	Berries	plain_agar	6.375
+4	dark 	Seeds + Berries	plain_agar	6.625
+4	dark 	Seeds + Berries	plain_agar	6.125
+4	dark 	Seeds + Berries	plain_agar	6.75
+4	dark 	Seeds + Berries	plain_agar	6.125
+4	dark 	Seeds + Berries	plain_agar	6.875
+4	dark 	Roots	plain_agar	0
+4	dark 	Roots	plain_agar	0
+4	dark 	Roots	plain_agar	0
+4	dark 	Roots	plain_agar	0
+4	dark 	Roots	plain_agar	0
+4	dark 	Soil	plain_agar	0
+4	dark 	Soil	plain_agar	0
+4	dark 	Soil	plain_agar	0
+4	dark 	Soil	plain_agar	0
+4	dark 	Soil	plain_agar	0
+4	dark 	Roots + Soil	plain_agar	2.75
+4	dark 	Roots + Soil	plain_agar	0
+4	dark 	Roots + Soil	plain_agar	0.75
+4	dark 	Roots + Soil	plain_agar	0.5
+4	dark 	Roots + Soil	plain_agar	0
+4	dark 	Soil + Litter	plain_agar	2.5
+4	dark 	Soil + Litter	plain_agar	0
+4	dark 	Soil + Litter	plain_agar	0
+4	dark 	Soil + Litter	plain_agar	0
+4	dark 	Soil + Litter	plain_agar	9.375
+4	dark 	Soil + Litter + Roots	plain_agar	4
+4	dark 	Soil + Litter + Roots	plain_agar	3.5
+4	dark 	Soil + Litter + Roots	plain_agar	10.5
+4	dark 	Soil + Litter + Roots	plain_agar	10.25
+4	dark 	Soil + Litter + Roots	plain_agar	10.25
+5	light	Roots + Soil + 	 PDA	13.5
+5	light	Roots + Soil + 	 PDA	16.625
+5	light	Roots + Soil + 	 PDA	19.375
+5	light	Roots + Soil + 	 PDA	21.375
+5	light	Roots + Soil + 	 PDA	19.875
+5	light	Soil + Litter +	 PDA	19
+5	light	Soil + Litter +	 PDA	16.125
+5	light	Soil + Litter +	 PDA	14.5
+5	light	Soil + Litter +	 PDA	0
+5	light	Soil + Litter +	 PDA	0
+5	light	Soil + Litter + Roots +	 PDA	13.5
+5	light	Soil + Litter + Roots +	 PDA	17
+5	light	Soil + Litter + Roots +	 PDA	17.125
+5	light	Soil + Litter + Roots +	 PDA	17.75
+5	light	Soil + Litter + Roots +	 PDA	16.625
+5	light	Leaves + 	 PDA	0
+5	light	Leaves + 	 PDA	0
+5	light	Leaves + 	 PDA	#VALUE!
+5	light	Leaves + 	 PDA	0
+5	light	Leaves + 	 PDA	0
+5	light	Seeds + 	 PDA	16.25
+5	light	Seeds + 	 PDA	18.375
+5	light	Seeds + 	 PDA	18.375
+5	light	Seeds + 	 PDA	17.625
+5	light	Seeds + 	 PDA	18.25
+5	light	Berries + 	 PDA	17.75
+5	light	Berries + 	 PDA	17.125
+5	light	Berries + 	 PDA	17.5
+5	light	Berries + 	 PDA	16.5
+5	light	Berries + 	 PDA	16.5
+5	light	Seeds + Berries + 	 PDA	16.375
+5	light	Seeds + Berries + 	 PDA	15.5
+5	light	Seeds + Berries + 	 PDA	14.625
+5	light	Seeds + Berries + 	 PDA	14.625
+5	light	Seeds + Berries + 	 PDA	16.875
+5	light	Roots + 	 PDA	17.75
+5	light	Roots + 	 PDA	17.625
+5	light	Roots + 	 PDA	18.5
+5	light	Roots + 	 PDA	17.75
+5	light	Roots + 	 PDA	17.625
+5	light	Litter + 	 PDA	18.75
+5	light	Litter + 	 PDA	19
+5	light	Litter + 	 PDA	17.25
+5	light	Litter + 	 PDA	17.25
+5	light	Litter + 	 PDA	18.5
+5	light	Soil + 	 PDA	19
+5	light	Soil + 	 PDA	18
+5	light	Soil + 	 PDA	18.75
+5	light	Soil + 	 PDA	19.125
+5	light	Soil + 	 PDA	18.75
+5	light	H2O + 	 PDA 	22.625
+5	light	H2O + 	 PDA 	22
+5	light	H2O + 	 PDA 	18.875
+5	light	H2O + 	 PDA 	0
+5	light	H2O + 	 PDA 	0
+5	light	H2O + 	 PDA 	20.5
+5	light	H2O + 	 PDA 	21.875
+5	light	H2O + 	 PDA 	23.25
+5	light	H2O  (	plain_agar	0
+5	light	H2O  (	plain_agar	0
+5	light	H2O  (	plain_agar	0
+5	light	H2O  (	plain_agar	0
+5	light	H2O  (	plain_agar	0
+5	light	H2O  (	plain_agar	0
+5	light	H2O  (	plain_agar	0
+5	light	H2O  (	plain_agar	0
+5	light	Roots	plain_agar	0
+5	light	Roots	plain_agar	0
+5	light	Roots	plain_agar	0
+5	light	Roots	plain_agar	0
+5	light	Roots	plain_agar	0
+5	light	Litter	plain_agar	0
+5	light	Litter	plain_agar	0
+5	light	Litter	plain_agar	0
+5	light	Litter	plain_agar	0
+5	light	Litter	plain_agar	0
+5	light	Soil	plain_agar	0
+5	light	Soil	plain_agar	0
+5	light	Soil	plain_agar	0
+5	light	Soil	plain_agar	0
+5	light	Soil	plain_agar	0
+5	light	Leaves	plain_agar	0
+5	light	Leaves	plain_agar	0
+5	light	Leaves	plain_agar	0
+5	light	Leaves	plain_agar	0
+5	light	Leaves	plain_agar	0
+5	light	Seeds	plain_agar	7.375
+5	light	Seeds	plain_agar	6
+5	light	Seeds	plain_agar	5.5
+5	light	Seeds	plain_agar	8.25
+5	light	Seeds	plain_agar	8.25
+5	light	Berries	plain_agar	5.625
+5	light	Berries	plain_agar	11.125
+5	light	Berries	plain_agar	8.25
+5	light	Berries	plain_agar	10
+5	light	Berries	plain_agar	10.25
+5	light	Seeds + Berries	plain_agar	7.375
+5	light	Seeds + Berries	plain_agar	5.75
+5	light	Seeds + Berries	plain_agar	6.75
+5	light	Seeds + Berries	plain_agar	5.5
+5	light	Seeds + Berries	plain_agar	6.25
+5	light	Roots + Soil	plain_agar	5.375
+5	light	Roots + Soil	plain_agar	4.375
+5	light	Roots + Soil	plain_agar	6.125
+5	light	Roots + Soil	plain_agar	5
+5	light	Roots + Soil	plain_agar	5.25
+5	light	Soil + Litter	plain_agar	2.125
+5	light	Soil + Litter	plain_agar	10.375
+5	light	Soil + Litter	plain_agar	7.125
+5	light	Soil + Litter	plain_agar	10.25
+5	light	Soil + Litter	plain_agar	9.5
+5	light	Soil + Litter + Roots	plain_agar	5.625
+5	light	Soil + Litter + Roots	plain_agar	8.875
+5	light	Soil + Litter + Roots	plain_agar	9.375
+5	light	Soil + Litter + Roots	plain_agar	8.25
+5	light	Soil + Litter + Roots	plain_agar	7.875
+5	dark 	Roots + Soil + 	 PDA	15.5
+5	dark 	Roots + Soil + 	 PDA	17.375
+5	dark 	Roots + Soil + 	 PDA	17.75
+5	dark 	Roots + Soil + 	 PDA	17.125
+5	dark 	Roots + Soil + 	 PDA	17
+5	dark 	Soil + Litter +	 PDA	16.125
+5	dark 	Soil + Litter +	 PDA	16
+5	dark 	Soil + Litter +	 PDA	18
+5	dark 	Soil + Litter +	 PDA	16.25
+5	dark 	Soil + Litter +	 PDA	17.125
+5	dark 	Soil + Litter + Roots +	 PDA	15.125
+5	dark 	Soil + Litter + Roots +	 PDA	17.125
+5	dark 	Soil + Litter + Roots +	 PDA	16.875
+5	dark 	Soil + Litter + Roots +	 PDA	17.25
+5	dark 	Soil + Litter + Roots +	 PDA	14.875
+5	dark 	Leaves + 	 PDA	0
+5	dark 	Leaves + 	 PDA	0
+5	dark 	Leaves + 	 PDA	0
+5	dark 	Leaves + 	 PDA	0
+5	dark 	Leaves + 	 PDA	0
+5	dark 	Seeds + 	 PDA	15.875
+5	dark 	Seeds + 	 PDA	16.875
+5	dark 	Seeds + 	 PDA	17.625
+5	dark 	Seeds + 	 PDA	16.5
+5	dark 	Seeds + 	 PDA	0
+5	dark 	Berries + 	 PDA	16.875
+5	dark 	Berries + 	 PDA	17.5
+5	dark 	Berries + 	 PDA	18.875
+5	dark 	Berries + 	 PDA	16.75
+5	dark 	Berries + 	 PDA	16.5
+5	dark 	Seeds + Berries + 	 PDA	16.625
+5	dark 	Seeds + Berries + 	 PDA	17.625
+5	dark 	Seeds + Berries + 	 PDA	17
+5	dark 	Seeds + Berries + 	 PDA	16.625
+5	dark 	Seeds + Berries + 	 PDA	17.125
+5	dark 	Roots + 	 PDA	17.25
+5	dark 	Roots + 	 PDA	0
+5	dark 	Roots + 	 PDA	17.375
+5	dark 	Roots + 	 PDA	16.75
+5	dark 	Roots + 	 PDA	0
+5	dark 	Litter + 	 PDA	16.625
+5	dark 	Litter + 	 PDA	16
+5	dark 	Litter + 	 PDA	19
+5	dark 	Litter + 	 PDA	17.125
+5	dark 	Litter + 	 PDA	17
+5	dark 	Soil + 	 PDA	0
+5	dark 	Soil + 	 PDA	18.25
+5	dark 	Soil + 	 PDA	18.25
+5	dark 	Soil + 	 PDA	18.25
+5	dark 	Soil + 	 PDA	0
+5	dark 	H2O + 	 PDA 	21.375
+5	dark 	H2O + 	 PDA 	#VALUE!
+5	dark 	H2O + 	 PDA 	19.25
+5	dark 	H2O + 	 PDA 	21.125
+5	dark 	H2O + 	 PDA 	20
+5	dark 	H2O + 	 PDA 	18.5
+5	dark 	H2O + 	 PDA 	20.875
+5	dark 	H2O + 	 PDA 	19.5
+5	dark 	H2O  (	plain_agar	0
+5	dark 	H2O  (	plain_agar	0
+5	dark 	H2O  (	plain_agar	0
+5	dark 	H2O  (	plain_agar	0
+5	dark 	H2O  (	plain_agar	0
+5	dark 	H2O  (	plain_agar	0
+5	dark 	H2O  (	plain_agar	0
+5	dark 	H2O  (	plain_agar	0
+5	dark 	Roots	plain_agar	0
+5	dark 	Roots	plain_agar	0
+5	dark 	Roots	plain_agar	0
+5	dark 	Roots	plain_agar	0
+5	dark 	Roots	plain_agar	0
+5	dark 	Litter	plain_agar	0
+5	dark 	Litter	plain_agar	0
+5	dark 	Litter	plain_agar	0
+5	dark 	Litter	plain_agar	0
+5	dark 	Litter	plain_agar	0
+5	dark 	Soil	plain_agar	0
+5	dark 	Soil	plain_agar	0
+5	dark 	Soil	plain_agar	0
+5	dark 	Soil	plain_agar	0
+5	dark 	Soil	plain_agar	0
+5	dark 	Leaves	plain_agar	0
+5	dark 	Leaves	plain_agar	0
+5	dark 	Leaves	plain_agar	0
+5	dark 	Leaves	plain_agar	0
+5	dark 	Leaves	plain_agar	0
+5	dark 	Seeds	plain_agar	7.125
+5	dark 	Seeds	plain_agar	6.625
+5	dark 	Seeds	plain_agar	4.375
+5	dark 	Seeds	plain_agar	4.375
+5	dark 	Seeds	plain_agar	5.125
+5	dark 	Berries	plain_agar	11.125
+5	dark 	Berries	plain_agar	10.125
+5	dark 	Berries	plain_agar	9.75
+5	dark 	Berries	plain_agar	10.75
+5	dark 	Berries	plain_agar	9.375
+5	dark 	Seeds + Berries	plain_agar	#VALUE!
+5	dark 	Seeds + Berries	plain_agar	5
+5	dark 	Seeds + Berries	plain_agar	4
+5	dark 	Seeds + Berries	plain_agar	4.375
+5	dark 	Seeds + Berries	plain_agar	4
+5	dark 	Roots + Soil	plain_agar	5
+5	dark 	Roots + Soil	plain_agar	9.5
+5	dark 	Roots + Soil	plain_agar	4.5
+5	dark 	Roots + Soil	plain_agar	7
+5	dark 	Roots + Soil	plain_agar	9
+5	dark 	Soil + Litter	plain_agar	7.625
+5	dark 	Soil + Litter	plain_agar	6.875
+5	dark 	Soil + Litter	plain_agar	8.375
+5	dark 	Soil + Litter	plain_agar	4.125
+5	dark 	Soil + Litter	plain_agar	6.5
+5	dark 	Soil + Litter + Roots	plain_agar	8.75
+5	dark 	Soil + Litter + Roots	plain_agar	8.125
+5	dark 	Soil + Litter + Roots	plain_agar	9.625
+5	dark 	Soil + Litter + Roots	plain_agar	7.75
+5	dark 	Soil + Litter + Roots	plain_agar	5.25

@@ -1,0 +1,84 @@
+lookseeB2 <- function(xxx = eightWv2.df)
+{
+### Purpose:- 
+### ----------------------------------------------------------------------
+### Modified from:- looksee2
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:- 11 Dec 2015, 15:57
+### ----------------------------------------------------------------------
+### Revisions:- 
+
+require(grid)
+
+xxx <- xxx[!is.na(xxx$Growth),]
+## pdf(file = "AwhetoGrowthB2.pdf", width = 188/25.4, height = 280/25.4)
+##     trellis.par.set(kullas())
+##     remove.shading()
+
+superpose.symbol <- Rows(trellis.par.get("superpose.symbol"), c(1:2))
+use.colours <- superpose.symbol$col
+
+
+browser()
+pik1 <- dotplot(Media ~ Growth | Agar + Luminosity, groups = Awheto,
+                data = xxx, strip =  stripC(fax =  2, fat = 0.2),
+                key = list(text = list(levels(xxx$Awheto), col = "black"),
+                             col = use.colours, space = "right",
+                               columns = 1, cex = .8, 
+                               border = "grey80", padding.text = 2)"top")
+
+
+pik2 <- dotplot(Media ~ Growth | Agar + Awheto + Luminosity,
+               data = xxx, layout = c(2, 4), panel = function(x, y, subscripts){
+         panel.df <- xxx[subscripts, ]
+         panel.count <- table(y)
+         ltext(26.5, seq(panel.count), panel.count, col = "orange3", cex = 0.5, adj = 1)
+         panel.dotplot(x,  y)
+       },
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+pik3 <- dotplot(Media ~ Growth | Awheto + Agar + Luminosity,
+               data = xxx, layout = c(2, 4), panel = function(x, y, subscripts){
+         panel.df <- xxx[subscripts, ]
+         panel.count <- table(y)
+         ltext(26.5, seq(panel.count), panel.count, col = "orange3", cex = 0.5, adj = 1)
+         panel.dotplot(x,  y)
+       },
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+
+## omitting zeros
+pik4 <- dotplot(Media ~ Growth | Agar + Luminosity + Awheto, data = xxx,
+       subset = Growth > 0, layout = c(2, 4), panel = function(x, y, subscripts){
+         panel.df <- xxx[subscripts, ]
+         panel.count <- table(y)
+         ltext(26.5, seq(panel.count), panel.count, col = "orange3", cex = 0.5, adj = 1)
+         panel.dotplot(x,  y)
+       },
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+pik5 <- dotplot(Media ~ Growth | Agar + Awheto + Luminosity, data = xxx,
+       subset = Growth > 0, layout = c(2, 4), panel = function(x, y, subscripts){
+         panel.df <- xxx[subscripts, ]
+         panel.count <- table(y)
+         ltext(26.5, seq(panel.count), panel.count, col = "orange3", cex = 0.5, adj = 1)
+         panel.dotplot(x,  y)
+       },
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+pik6 <- dotplot(Media ~ Growth | Awheto + Agar + Luminosity, data = xxx,
+       subset = Growth > 0, layout = c(2, 4), panel = function(x, y, subscripts){
+         panel.df <- xxx[subscripts, ]
+         panel.count <- table(y)
+         ltext(26.5, seq(panel.count), panel.count, col = "orange3", cex = 0.5, adj = 1)
+         panel.dotplot(x,  y)
+       },
+       strip =  stripC(fax =  3, fat = 0.2), between = list(x = 0, y = c(0, 0.5)))
+print(pik1)
+print(pik2)
+print(pik3)
+print(pik4)
+print(pik5)
+print(pik6)
+
+dev.off()
+
+}
