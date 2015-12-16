@@ -1,0 +1,30 @@
+Since plain agar failed to produce growth for many treatments
+including water, only PDA data are considered.
+
+Looking at water as a base to check for differences between awhetos
+and the presence/absence of light, Awheto 4 shows a significant effect
+of light (p = 0.02) whereas Awheto 5 does not (p = 0.08).
+
+It's abundantly clear that leaves hinder the growth of either awheto
+with only one instance of any growth and that is far less than any
+other recorded growth for other treatments.
+
+The extent of the hindering ability of other treatments was tested by
+comparing the corresponding effects on growth with that of water.
+
+The two awhetos produced differing interactions and so were analysed
+separately.  
+
+Awheto 4 exhibited a significant negative effect of light on growth
+(0.76mm) and no significant reduced growth for Roots or Soil.
+However, with the omission of the single exceptional Soil data point
+(twice the growth of any other recorded, including those for water)
+the effect of light became insignififant but all treatments showed
+significantly less growth (at least 1.4mm) than water for all
+treatments.
+
+Growth of Awheto 5 shows a significant effect of light with Berries
+only but that was assumed to be of minimal practical
+significance. Omitting the interaction term from the model made the
+effect of light overall to be insignificant.  All treatments showed
+highly significantly lower (at least 2.25mm) growth than for water.

@@ -1,0 +1,34 @@
+glm.awheto <-
+function(xx = eightWv2.df)
+{
+### Purpose:- GLM looksee
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:- 15 Dec 2015, 11:52
+### ----------------------------------------------------------------------
+### Revisions:-
+
+  require(dplyr)
+  xx <- xx[!is.na(xx$Growth),]
+  xx <- xx[xx$Growth > 0,]
+
+## Is water higher than the rest for PDA?
+
+levels(xx$Media[xx$Media ==  "Soil + Litter + Roots"] <- "Roots + Soil + Litter")
+
+pda4.df <- xx %>%
+  filter(as.character(Agar) == "PDA", as.character(Awheto) == "Awheto 4")
+pda5.df <- xx %>%
+  filter(as.character(Agar) == "PDA", as.character(Awheto) == "Awheto 5")
+
+
+browser()
+
+pda4.glm <- glm(Growth ~ Media * Luminosity, data = pda4.df)
+pda5.glm <- glm(Growth ~ Media * Luminosity, data = pda5.df)
+
+  
+}

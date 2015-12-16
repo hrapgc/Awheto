@@ -54,13 +54,13 @@ eightWv2.df <- within(eightWv2.df, Treatment <- gsub('\\+$', '', Treatment))
 eightWv2.df <- within(eightWv2.df, Treatment <- gsub('\\+', ' + ', Treatment))
 
 eightWv2.df <- within(eightWv2.df, Agar <- factor(agar))
-eightWv2.df <- within(eightWv2.df, Awheto <- factor(paste("Apheto", Awheto)))
+eightWv2.df <- within(eightWv2.df, Awheto <- factor(paste("Awheto", Awheto)))
 eightWv2.df <- within(eightWv2.df, Media <- factor(Treatment))
 media.order2 <- levels(eightWv2.df$Media)[c(2:5, 1, 8, 10, 9, 6, 11, 7, 12)]
 eightWv2.df$Media <- factor(eightWv2.df$Media, levels = media.order2)
 
 looksee2() # >> AwhetoGrowthA2.pdf
-
+lookseeB2()
 
 
 
@@ -71,6 +71,8 @@ looksee2() # >> AwhetoGrowthA2.pdf
 ## Github repository (xterm command line)
 ##
 ##########################################
+allmedia <- as.character(xxx$Media)
+allmedia[allmedia == "Soil + Litter + Roots"] <- "Roots + Soil + Litter"
 
 git config --global user.name "Tuxkid"
 git config --global core.editor "emacs"

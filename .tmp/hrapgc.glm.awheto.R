@@ -1,0 +1,86 @@
+glm.awheto <-
+  function(xx = eightWv2.df)
+{
+### Purpose:- GLM looksee
+### ----------------------------------------------------------------------
+### Modified from:- 
+### ----------------------------------------------------------------------
+### Arguments:- 
+### ----------------------------------------------------------------------
+### Author:-   Patrick Connolly, Date:- 15 Dec 2015, 11:52
+### ----------------------------------------------------------------------
+### Revisions:-
+
+  require(dplyr)
+  xx <- xx[!is.na(xx$Growth),]
+  xx <- xx[xx$Growth > 0,]
+
+  ## Is water higher than the rest for PDA?
+
+  levels(xx$Media[xx$Media ==  "Soil + Litter + Roots"] <- "Roots + Soil + Litter")
+  xxx <- xx %>%
+    filter(as.character(Agar) == "PDA")
+  xxx.glm <-  glm(Growth ~ Media * Luminosity * Awheto, data = xxx, subset = Growth < 25)
+  xxx.glm2 <-  glm(Growth ~ Media, data = xxx, subset = Growth < 25)
+### need to analyse awhetos separately
+  
+  pda4.df <- xx %>%
+    filter(as.character(Agar) == "PDA", as.character(Awheto) == "Awheto 4")
+  pda5.df <- xx %>%
+    filter(as.character(Agar) == "PDA", as.character(Awheto) == "Awheto 5")
+
+  pda4.glm <- glm(Growth ~ Media * Luminosity, data = pda4.df)
+  pda5.glm <- glm(Growth ~ Media * Luminosity, data = pda5.df)
+
+summary(pda4.glm) # ignore interaction
+summary(pda5.glm) # only Berries show interaction
+  
+  pda4.glm <- glm(Growth ~ Media + Luminosity, data = pda4.df)
+  pda5.glm <- glm(Growth ~ Media + Luminosity, data = pda5.df)
+summary(pda4.glm) # can't ignore luminosity: Roots not significant, nor Soil
+summary(pda5.glm) # can ignore luminosity (except for Berries)
+
+## Effect of outlier Soil point:
+  pda4A.glm <- glm(Growth ~ Media + Luminosity, data = pda4.df, subset = Growth < 25)
+summary(pda4A.glm) # can't ignore luminosity: Roots not significant, nor Soil
+
+ 
+  
+  browser()
+  plain4.df <- xx %>%
+    filter(as.character(Agar) == "plain_agar", as.character(Awheto) == "Awheto 4")
+  plain5.df <- xx %>%
+    filter(as.character(Agar) == "plain_agar", as.character(Awheto) == "Awheto 5")
+
+  plain4.glm <- glm(Growth ~ Media * Luminosity, data = plain4.df)
+  plain5.glm <- glm(Growth ~ Media * Luminosity, data = plain5.df)
+
+  plain4.glm <- glm(Growth ~ Media + Luminosity, data = plain4.df)
+  plain5.glm <- glm(Growth ~ Media + Luminosity, data = plain5.df)
+
+  water.df <- xx %>%
+    filter(as.character(Media) == "H2O")
+
+  water.glm <- glm(Growth ~ Awheto * Luminosity, data = water.df)
+  summary(water.glm) # can't ignre interaction
+##   water.glm <- glm(Growth ~ Awheto + Luminosity, data = water.df)
+##   summary(water.glm) #  pointless
+
+  water4.df <- water.df %>%
+    filter(as.character(Awheto) == "Awheto 4")
+  water5.df <- water.df %>%
+    filter(as.character(Awheto) == "Awheto 5")
+  water4.glm <- glm(Growth ~ Luminosity, data = water4.df)
+  water5.glm <- glm(Growth ~ Luminosity, data = water5.df)
+
+  summary(water4.glm)
+  summary(water5.glm)
+
+  pred.dat4 <- data.frame(Media = ipsofactor(levels(pda4.df$Media))[-11])
+  pred.dat5 <- data.frame(Media = ipsofactor(levels(pda5.df$Media))[-c(2, 11)])
+  pred.dat4$Prediction <- predict(pda4A.glm, pred.dat4) # not finished 
+
+
+  
+
+}
