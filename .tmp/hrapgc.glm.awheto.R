@@ -72,6 +72,7 @@ summary(pda4A.glm) # can't ignore luminosity: Roots not significant, nor Soil
     filter(as.character(Awheto) == "Awheto 5")
   water4.glm <- glm(Growth ~ Luminosity, data = water4.df)
   water5.glm <- glm(Growth ~ Luminosity, data = water5.df)
+  browser()
 
   summary(water4.glm)
   summary(water5.glm)
